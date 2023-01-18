@@ -1,6 +1,6 @@
 # LetterVariations
 
-Simple python program to extract the most likely letter variations out of a list of first names, e.g. (d-t), (a-e).
+Simple Jupyter board to extract the most likely letter variations out of a list of first names, e.g. (d-t), (a-e).
 For the first names "Anna" and "Anne" the only letter variation is (a-e)/(e-a).
 Character variations of unrelated names will be weighted less.
 
